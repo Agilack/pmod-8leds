@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC541
+D Octal buffer/line driver with tri-state output
+$ENDCMP
+#
+$CMP R_4
+D 4 resistors Pack
+K R DEV
+$ENDCMP
+#
+#End Doc Library
